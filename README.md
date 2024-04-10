@@ -19,8 +19,11 @@ E-mail: tibywherr@gmail.com
 
 ## FORMAÇÃO COMPLEMENTAR
 
-1. Clube de Libras
+1. Clube de Libras.
 Carga horária: 60 horas.
 
-2. Semana de Pesquisa e Extensão - IFAM Campus Eirunepé
+2. Semana de Pesquisa e Extensão - IFAM Campus Eirunepé.
 Carga horária: 40 horas.
+
+3. Monitoria de Língua Inglesa.
+Carga horária: 45 horas. 
