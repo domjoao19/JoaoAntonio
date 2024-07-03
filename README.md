@@ -5,7 +5,7 @@ Este projeto faz parte da disciplina de Projeto Integrador 2, ministrada pelo pr
 
 # CÚRRICULO BÁSICO
 
-[Perfil no lattes] ("http://lattes.cnpq.br/0309634415767784")
+[Perfil no lattes]("http://lattes.cnpq.br/0309634415767784")
 
 [Perfil no Linkedin]("www.linkedin.com/in/joão-antônio-barros-6604a52bb")
 
