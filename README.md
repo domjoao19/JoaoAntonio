@@ -11,7 +11,6 @@ Este projeto faz parte da disciplina de Projeto Integrador 2, ministrada pelo pr
 [Perfil no Lattes]("wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=B74ADF96EB4AE7A7C6CAAC0A300B60E5#")
 
 ## DADOS PESSOAIS
-
 Nome: João Antônio Faustino de Barros
 Idade: 17
 E-mail: tibywherr@gmail.com
