@@ -17,6 +17,7 @@ E-mail: tibywherr@gmail.com
 
 ## FORMAÇÃO ACADÊMICA
 Atualmente concluindo o Curso Técnico de nível médio de informática na forma integrada. 
+
 Ensino fundamental concluído na Escola Estadual Conrado Pinto Gomes. 
 
 ## FORMAÇÃO COMPLEMENTAR
