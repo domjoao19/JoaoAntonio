@@ -12,7 +12,9 @@ Este projeto faz parte da disciplina de Projeto Integrador 2, ministrada pelo pr
 
 ## DADOS PESSOAIS
 Nome: João Antônio Faustino de Barros
+
 Idade: 17
+
 E-mail: tibywherr@gmail.com
 
 ## FORMAÇÃO ACADÊMICA
