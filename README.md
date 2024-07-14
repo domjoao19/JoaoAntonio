@@ -10,8 +10,6 @@ Este projeto faz parte da disciplina de Projeto Integrador 2, ministrada pelo pr
 
 [Perfil no Lattes]("wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=B74ADF96EB4AE7A7C6CAAC0A300B60E5#")
 
-[Certificados]("C:\Users\WESLEY.K\Documents\Certificados")
-
 ## DADOS PESSOAIS
 Nome: João Antônio Faustino de Barros
 
@@ -26,11 +24,14 @@ Ensino fundamental concluído na Escola Estadual Conrado Pinto Gomes.
 
 ## FORMAÇÃO COMPLEMENTAR
 
-1. Clube de Libras.
-Carga horária: 60 horas.
+1. Monitoria de Língua Inglesa.
+Carga horária: 45 horas.
+[Certificado referente a atividade](Certificado1)
 
-2. Semana de Pesquisa e Extensão - IFAM Campus Eirunepé.
+3. Semana de Pesquisa e Extensão - IFAM Campus Eirunepé.
 Carga horária: 40 horas.
+[Certificado referente a atividade](Certificado2)
 
-3. Monitoria de Língua Inglesa.
-Carga horária: 45 horas. 
+5. Clube de Libras.
+Carga horária: 60 horas.
+[Certificado referente a atividade](Certificado3)
