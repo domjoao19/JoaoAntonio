@@ -30,8 +30,8 @@ Carga horária: 45 horas.
 
 2. Semana de Pesquisa e Extensão - IFAM Campus Eirunepé.
 Carga horária: 40 horas.
-[Certificado referente a atividade](Certificado2)
+[Certificado referente a atividade](Certificado2.pdf)
 
 3. Clube de Libras.
 Carga horária: 60 horas.
-[Certificado referente a atividade](Certificado3)
+[Certificado referente a atividade](Certificado3.pdf)
