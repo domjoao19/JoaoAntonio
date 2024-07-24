@@ -25,13 +25,17 @@ Ensino fundamental concluído na Escola Estadual Conrado Pinto Gomes.
 ## FORMAÇÃO COMPLEMENTAR
 
 1. Monitoria de Língua Inglesa.
+
 Carga horária: 45 horas.
 [Certificado referente a atividade](Certificado1)
 
-3. Semana de Pesquisa e Extensão - IFAM Campus Eirunepé.
+2. Semana de Pesquisa e Extensão - IFAM Campus Eirunepé.
+ 
 Carga horária: 40 horas.
+
 [Certificado referente a atividade](Certificado2)
 
-5. Clube de Libras.
+3. Clube de Libras.
 Carga horária: 60 horas.
+
 [Certificado referente a atividade](Certificado3)
